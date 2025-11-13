@@ -246,3 +246,44 @@ body {
   }
 }
 
+/* ====== PÁGINA DE COMPRA ====== */
+.compra-section {
+  padding: 3rem 2rem;
+  text-align: center;
+}
+
+.compra-container {
+  max-width: 700px;
+  margin: auto;
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.metodo {
+  margin-bottom: 2rem;
+}
+
+.logo-pago {
+  width: 180px;
+  display: block;
+  margin: 0 auto 1rem auto;
+}
+
+.btn-pago {
+  display: inline-block;
+  background: #6a0dad;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn-pago:hover {
+  background: #5500aa;
+}
+
+
